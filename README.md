@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on improving my coding skills through various personal projects<br>👯 I'm focusing on my own development and studies at the moment<br>🌱 I'm currently learning data structures, algorithms, and full-stack web development<br>💬 Ask me about football strategies, geography trivia, or my web development journey<br>⚡ Fun fact: I can tie shoelaces in 2 seconds flat!
+🔭 I'm currently working on improving my coding skills through various personal projects<br>👯 I'm focusing on my own development and studies at the moment<br>💬 Ask me about football strategies, geography trivia, or my web development journey<br>⚡ Fun fact: I can tie shoelaces in 2 seconds flat!
 
 
 ## 🌐 Socials:
